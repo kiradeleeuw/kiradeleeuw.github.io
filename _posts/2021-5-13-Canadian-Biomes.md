@@ -4,31 +4,33 @@ title: Canadian Biomes
 ---
 
 ## Reading Resources
-
+\* = easiest, ***** = hardest
 ### General Information
-- [https://www.scienceworld.ca/resource/what-biome/](https://www.scienceworld.ca/resource/what-biome/) **
-- [https://earthobservatory.nasa.gov/biome](https://earthobservatory.nasa.gov/biome) ***
-- [http://mrcaslick.altervista.org/SNC1D/Textbook/2.8.pdf](http://mrcaslick.altervista.org/SNC1D/Textbook/2.8.pdf) *****
+- [Science World: What is a Biome?](https://www.scienceworld.ca/resource/what-biome/) **
+- [NASA, Mission: Biomes](https://earthobservatory.nasa.gov/biome) ***
+- [Terrestrial Biomes](http://mrcaslick.altervista.org/SNC1D/Textbook/2.8.pdf) *****
 - [http://thewildclassroom.com/biomes/](http://thewildclassroom.com/biomes/ )
 
 ### Temperate Forest
-- [https://www.ducksters.com/science/ecosystems/temperate_forest_biome.php](https://www.ducksters.com/science/ecosystems/temperate_forest_biome.php) **
-- [http://kids.nceas.ucsb.edu/biomes/temperateforest.html](http://kids.nceas.ucsb.edu/biomes/temperateforest.html) ***
-- [http://kids.nceas.ucsb.edu/biomes/rainforest.html](http://kids.nceas.ucsb.edu/biomes/rainforest.html) ***
+- [Science for Kids: Temperate Forest Biome](https://www.ducksters.com/science/ecosystems/temperate_forest_biome.php) **
+- [KDE Santa Barbara: Temperate Forest Biome](http://kids.nceas.ucsb.edu/biomes/temperateforest.html) ***
+- [KDE Santa Barbara: Temperate Rainforest](http://kids.nceas.ucsb.edu/biomes/rainforest.html) ***
 
 ### Grasslands
-- [https://www.ducksters.com/science/ecosystems/grasslands_biome.php](https://www.ducksters.com/science/ecosystems/grasslands_biome.php) **
-- [http://kids.nceas.ucsb.edu/biomes/grassland.html](http://kids.nceas.ucsb.edu/biomes/grassland.html) ***
-- [https://kids.kiddle.co/Canadian_Prairies](https://kids.kiddle.co/Canadian_Prairies) ****
+- [Science for Kids: Grasslands](https://www.ducksters.com/science/ecosystems/grasslands_biome.php) **
+- [KDE Santa Barbara: Grasslands](http://kids.nceas.ucsb.edu/biomes/grassland.html) ***
+- [Canadian Prairies Facts for Kids](https://kids.kiddle.co/Canadian_Prairies) ****
 
 ### Taiga/ Boreal Forest
-- [https://www.ducksters.com/science/ecosystems/taiga_forest_biome.php](https://www.ducksters.com/science/ecosystems/taiga_forest_biome.php) **  
-- [http://kids.nceas.ucsb.edu/biomes/taiga.html](http://kids.nceas.ucsb.edu/biomes/taiga.html) ***
-- [https://letstalkscience.ca/educational-resources/backgrounders/boreal-foresttaiga-biome](https://letstalkscience.ca/educational-resources/backgrounders/boreal-foresttaiga-biome)*** 
+- [Science for Kids: Taiga Forest Biome](https://www.ducksters.com/science/ecosystems/taiga_forest_biome.php) **  
+- [KDE Santa Barbara: Taiga Biome](http://kids.nceas.ucsb.edu/biomes/taiga.html) ***
+- [Read About Boreal Forest/ Taiga Biome](https://letstalkscience.ca/educational-resources/backgrounders/boreal-foresttaiga-biome)*** 
 
 ### Tundra
-- [https://www.ducksters.com/science/ecosystems/tundra_biome.php#:~:text=The%20tundra%20biome%20is%20a,surface%20is%20covered%20with%20tundra.&text=It's%20cold%20%2D%20The%20tundra%20is%20the%20coldest%20of%20the%20biomes](https://www.ducksters.com/science/ecosystems/tundra_biome.php#:~:text=The%20tundra%20biome%20is%20a,surface%20is%20covered%20with%20tundra.&text=It's%20cold%20%2D%20The%20tundra%20is%20the%20coldest%20of%20the%20biomes) **
-- [http://kids.nceas.ucsb.edu/biomes/tundra.html](http://kids.nceas.ucsb.edu/biomes/tundra.html) *** 
+- [Science For Kids: Tundra Biome](https://www.ducksters.com/science/ecosystems/tundra_biome.php) **
+- [KDE Santa Barbara: Tundra Biome](http://kids.nceas.ucsb.edu/biomes/tundra.html) *** 
+- [Arctic Tundra: Kid Zone](https://kidzone.ws/habitats/arctic-tundra.htm) *** 
+- [Tundra - Kids](https://kids.britannica.com/kids/article/tundra/399631) *
 
 ## Video Resources
 
