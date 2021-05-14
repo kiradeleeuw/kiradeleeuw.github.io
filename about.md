@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! My name is Kira and I love experiential place-conscious education :)
+Hi! My name is Kira and I love experiential place-conscious education. My favorite food is sushi :)
 
 ### More Information
 
