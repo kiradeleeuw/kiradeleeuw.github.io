@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! My name is Kira and I love place-based education :)
+Hi! My name is Kira and I love experiential place-conscious education :)
 
 ### More Information
 
